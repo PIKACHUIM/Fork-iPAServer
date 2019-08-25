@@ -1,5 +1,5 @@
 # ipa-server
-
+苹果iOS应用商店第三方ipa发布平台
 Upload and install IPA in web.
 
 * [中文文档](README_zh.md)
